@@ -8,6 +8,9 @@ int main()
 {
 	setlocale(LC_ALL, "");
 
+
+
+
 	//int a, b, c;
 	//scanf_s("%d", &a);
 	//scanf_s("%d", &b);
